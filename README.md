@@ -4,7 +4,7 @@ Professional README.md
 
 ## Description
 
-Budget Tracker
+This is a unique new Budget Tracker that can help make sure your expenses are in line!
 
 ## License
 
@@ -44,3 +44,5 @@ What is your email? ryan0425@msn.com
 What is the name of your project? Budget Tracker
 
 What is your LinkedIn?
+
+![Capture](Capture.PNG)
