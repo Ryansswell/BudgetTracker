@@ -45,4 +45,6 @@ What is the name of your project? Budget Tracker
 
 What is your LinkedIn?
 
-![Capture](Capture.PNG)
+## ScreenShot
+
+![](BudgetTrackerPic.PNG)
