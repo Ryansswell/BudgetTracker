@@ -1,10 +1,6 @@
 # BudgetTracker
 
-Professional README.md
-
-## Description
-
-This is a unique new Budget Tracker that can help make sure your expenses are in line!
+Ever need help tracking your budget? This app was created to help me keep track off my daily expenses and so I can see it in a visual. You can add new funds that you have recieved or you can subtract funds and it will graph out the results, and hopefully its not in the red.
 
 ## License
 
@@ -12,39 +8,17 @@ This is a unique new Budget Tracker that can help make sure your expenses are in
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. Enter any budget items you have:
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. When on consule you can NPM Start and run app!
 -You can add and subtract items with titles and it will update your budget and provide a graph to help track your budget!
 
-## Usage
+## ScreenShot
 
-Provide instructions and examples for use. Include screenshots as needed.
+![](BudgetTrackerPic.PNG)
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well. undefined
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer. Ryan Anderson
-
-## Tests
-
-Provide examples or screenshots to prove working.
-
-## Questions
-
-Any questions?
 
 What is your GitHub username? @ryansswell
 
 What is your email? ryan0425@msn.com
 
 What is the name of your project? Budget Tracker
-
-What is your LinkedIn?
-
-## ScreenShot
-
-![](BudgetTrackerPic.PNG)
